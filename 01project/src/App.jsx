@@ -11,7 +11,7 @@ function App() {
   };
 
   const SubValue = () => {
-    if (counter > 0) setCounter(counter - 1);
+    if (counter>0) setCounter(counter - 1);
   };
 
   return (
